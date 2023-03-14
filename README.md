@@ -36,14 +36,14 @@ Generated pdf, images, docx files have system information in their title or insi
 
 # Other useful Dorks:-
 
-allintext:username filetype:log
-inurl:/proc/self/cwd
-"index of" "database.sql.zip"
-site:target.com inurl:admin "@gmail.com"
-inurl:zoom.us/j and intext:scheduled for
-allintitle: restricted filetype:doc site:gov
-intitle:"Index of" wp-admin
-inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
+# allintext:username filetype:log
+# inurl:/proc/self/cwd
+# "index of" "database.sql.zip"
+# site:target.com inurl:admin "@gmail.com"
+# inurl:zoom.us/j and intext:scheduled for
+# allintitle: restricted filetype:doc site:gov
+# intitle:"Index of" wp-admin
+# inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
 
 # Useful Links:-
 This is the complete database of google dorks where everyday new google dorks are disclosed, so keep an eye on this :- https://www.exploit-db.com/google-hacking-database 
